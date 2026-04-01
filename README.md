@@ -81,7 +81,7 @@ Power BI • Tableau • Matplotlib • Seaborn
 ## 🌍 Connect With Me
 
 LinkedIn  
-https://www.linkedin.com/in/hridesh-mund-3280051ba
+https://www.linkedin.com/in/hridesh-mund
 
 GitHub  
 https://github.com/Hridesh16
